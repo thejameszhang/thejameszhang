@@ -7,7 +7,7 @@
 **Editors**: VSCode, Vim\
 **Languages**: Python, C++, C, Python, Java, Javascript, HTML/CSS, MIPS Assembly, LaTeX, Markdown\
 **Packages/Frameworks**: Numpy, Pandas, Statsmodels, Sklearn, Tensorflow, Django, Flask, React.js, Bootstrap\
-**Coursework**: Computer Systems, Algorithms, Data Structures & Algorithms, Probability Theory\
+**Coursework**: Computer Systems, Algorithms, Objected-Oriented Programming I and II, Probability Theory\
 Linear Algebra, Multivariable Calculus, Differential Equations, Discrete Structures
 
 ### Miscellaneous
