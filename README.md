@@ -15,6 +15,6 @@ Linear Algebra, Multivariable Calculus, Differential Equations, Discrete Structu
 **Current Mood**: Sleepy
 
 ### Contact Information
-**Email**: jzhang72@terpmail.umd.edu\
-**LinkedIn**: linkedin.com/in/jamesyzhang\
-**Home**: github.com/thejameszhang
+**Email**: jzhang72@terpmail.umd.edu \
+**LinkedIn**: www.linkedin.com/in/jamesyzhang \
+**Home**: www.github.com/thejameszhang
