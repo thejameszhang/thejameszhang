@@ -2,8 +2,8 @@
 
 Programming:
 -------------------------
-OS: Ubuntu 22.04 on Windows 11 x86_64
-Uptime: 19 years 9 months 15 days
+OS: Ubuntu 22.04 on Windows 11 x86_64\
+Uptime: 19 years 9 months 15 days\
 Host: University of Maryland, College Park
 Shell: B.S. Computer Science and B.S. Applied Mathematics
 Editors: VSCode, Vim
