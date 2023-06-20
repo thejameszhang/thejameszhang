@@ -1,6 +1,6 @@
 ![snake gif](https://github.com/thejameszhang/thejameszhang/blob/output/github-contribution-grid-snake.gif)
 
-jzhang72@terpmail.umd.edu:~$ neofetch
+jameszhang@terpmail:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Programming:
