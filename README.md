@@ -4,7 +4,7 @@
 **Uptime**: 19 years 9 months 15 days\
 **Host**: University of Maryland, College Park\
 **Shell**: B.S. Computer Science, B.S. Applied Mathematics, Minor Computational Finance\
-**Editors**: VSCode, Vim\
+**Editors**: VSCode, Vim, Eclipse\
 **Languages**: Python, C++, C, Python, Java, Javascript, HTML/CSS, MIPS Assembly, LaTeX, Markdown\
 **Packages/Frameworks**: Numpy, Pandas, Statsmodels, Sklearn, Tensorflow, Django, Flask, React.js, Bootstrap\
 **Coursework**: Computer Systems, Algorithms, Objected-Oriented Programming I and II, Probability Theory\
