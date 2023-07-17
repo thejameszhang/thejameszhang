@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/thejameszhang/thejameszhang/blob/output/github-contribution-grid-snake.svg)
 ### Programming
 **OS**: Ubuntu 22.04 on Windows 11 x86_64\
 **Uptime**: 19 years 9 months 15 days\
