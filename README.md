@@ -1,13 +1,14 @@
 ### Programming
 **OS**: Ubuntu 22.04 on Windows 11 x86_64\
-**Uptime**: 19 years 9 months 15 days\
+**Uptime**: 20 years 2 months 25 days\
 **Host**: University of Maryland, College Park\
-**Shell**: B.S. Computer Science, B.S. Applied Mathematics, Minor Computational Finance\
+**Shell**: B.S. Computer Science, B.S. Statistics, Minor Computational Finance\
 **Tools**: VSCode, Vim, Eclipse, Conda, Docker, Jenkins\
-**Languages**: Python, C++, C, Python, Java, Javascript, HTML/CSS, MIPS Assembly, LaTeX, Markdown\
-**Packages/Frameworks**: Numpy, Pandas, Statsmodels, Sklearn, Tensorflow, Django, Flask, React.js, Bootstrap\
+**Languages**: Python, C++, C, Rust, Ocaml, Java, Javascript, HTML/CSS, MIPS Assembly, LaTeX, Markdown\
+**Packages/Frameworks**: Numpy, Pandas, Statsmodels, Sklearn, Jax, PyTorch, Tensorflow, Django, Flask, React.js, Bootstrap\
 **Coursework**: Computer Systems, Algorithms, Objected-Oriented Programming I and II, Probability Theory\
-Linear Algebra, Multivariable Calculus, Differential Equations, Discrete Structures
+Linear Algebra, Multivariable Calculus, Differential Equations, Discrete Structures, Programming Languages\
+Theory and Methods of Statistics, Financial Markets
 
 ### Miscellaneous
 **Hobbies**: Word Hunt, Soccer, Food Tasting, Poker, Dreaming, Brain Teasers\
