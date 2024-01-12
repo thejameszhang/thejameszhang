@@ -5,7 +5,7 @@
 **Shell**: B.S. Computer Science, B.S. Statistics, Minor Computational Finance\
 **Tools**: VSCode, Vim, Eclipse, Conda, Docker, Jenkins\
 **Languages**: Python, C++, C, Rust, Ocaml, Java, Javascript, HTML/CSS, MIPS Assembly, LaTeX, Markdown\
-**Packages/Frameworks**: Numpy, Pandas, Statsmodels, Sklearn, Jax, PyTorch, Tensorflow, Django, Flask, React.js, Bootstrap\
+**Packages/Frameworks**: Numpy, Pandas, Statsmodels, Sklearn, Jax, Optax, PyTorch, Tensorflow, Django, Flask, React.js, Bootstrap\
 **Coursework**: Computer Systems, Algorithms, Objected-Oriented Programming I and II, Probability Theory\
 Linear Algebra, Multivariable Calculus, Differential Equations, Discrete Structures, Programming Languages\
 Theory and Methods of Statistics, Financial Markets
