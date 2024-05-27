@@ -1,8 +1,8 @@
 ### Programming
 **OS**: Ubuntu 22.04 on Windows 11 x86_64\
-**Uptime**: 20 years 2 months 25 days\
+**Uptime**: 20 years 8 months 22 days\
 **Host**: University of Maryland, College Park\
-**Shell**: B.S. Computer Science, B.S. Statistics, Minor Computational Finance\
+**Shell**: B.S. Computer Science, B.S. Mathematics, Minor Computational Finance\
 **Tools**: VSCode, Vim, Eclipse, Conda, Docker, Jenkins\
 **Languages**: Python, C++, C, Rust, Ocaml, Java, Javascript, HTML/CSS, MIPS Assembly, LaTeX, Markdown\
 **Packages/Frameworks**: Numpy, Pandas, Statsmodels, Sklearn, Jax, Optax, PyTorch, Tensorflow, Django, Flask, React.js, Bootstrap\
